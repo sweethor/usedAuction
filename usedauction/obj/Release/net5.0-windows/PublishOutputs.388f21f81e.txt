@@ -1,0 +1,10 @@
+C:\Users\KTH\Desktop\usedauction.exe
+C:\Users\KTH\Desktop\usedauction.dll
+C:\Users\KTH\Desktop\usedauction.deps.json
+C:\Users\KTH\Desktop\usedauction.runtimeconfig.json
+C:\Users\KTH\Desktop\usedauction.pdb
+C:\Users\KTH\Desktop\Firebase.dll
+C:\Users\KTH\Desktop\LiteDB.dll
+C:\Users\KTH\Desktop\Newtonsoft.Json.dll
+C:\Users\KTH\Desktop\System.Reactive.dll
+C:\Users\KTH\Desktop\System.Runtime.InteropServices.WindowsRuntime.dll
