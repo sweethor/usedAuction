@@ -24,7 +24,7 @@ App 기능
 
 ![login](https://user-images.githubusercontent.com/63903206/147765148-35722684-60ab-4aba-b74a-c490cf5ab643.PNG)
 
--회원가입 화면
+- 회원가입 화면
 
 ![signup](https://user-images.githubusercontent.com/63903206/147765369-f699aac7-f56e-4e3b-8663-951ca2eecc9b.PNG)
 
