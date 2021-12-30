@@ -46,8 +46,8 @@ App 기능
 - 마이페이지
 
 ![mypage](https://user-images.githubusercontent.com/63903206/147765620-2eda7176-7bef-40a0-84cf-968962d5f280.PNG)
-- 개인 활동 내역확인 가능 자신의 판매 및 구매정보와 진행중인 제품 중 즐겨찾기된 목록 확인가능 
-- 판매완료 제품 확인 및 상대유저 신뢰도 기입
+ 개인 활동 내역확인 가능 자신의 판매 및 구매정보와 진행중인 제품 중 즐겨찾기된 목록 확인가능 
+ 판매완료 제품 확인 및 상대유저 신뢰도 기입
 
 ![mypage2](https://user-images.githubusercontent.com/63903206/147765734-2aa1e1ab-28ef-4a55-a194-bdaff8d02227.PNG)
 
